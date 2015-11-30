@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Carousel Template for Bootstrap</title>
+    <title>impressum</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +52,7 @@
                 <!--<li class="active"><a href="#">Home</a></li>-->
                 <li><a href="about.html">About</a></li>
 		<li><a href="http://www.codecademy.com/tojoko">Badges</a></li>
-                <li><a href="impressum.html">Impressum</a></li>
+                <li class="active"><a href="impressum.html">Impressum</a></li>
           <li><form class="navbar-form navbar-right">
             <input type="text" class="form-control" placeholder="Search...">
           </form></li>
